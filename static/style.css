@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(135deg,#0f172a,#1e293b);
+    min-height:100vh;
+    color:white;
+    font-family:Segoe UI,sans-serif;
+}
+
+.main-card{
+    max-width:900px;
+    margin:50px auto;
+    background:rgba(255,255,255,0.08);
+    backdrop-filter:blur(15px);
+    padding:30px;
+    border-radius:25px;
+    box-shadow:0 10px 30px rgba(0,0,0,.4);
+}
+
+textarea{
+    background:#334155;
+    color:white;
+    border:none;
+}
+
+.result-box{
+    background:#334155;
+    padding:20px;
+    border-radius:15px;
+    margin-top:20px;
+} 
